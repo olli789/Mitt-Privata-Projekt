@@ -8,9 +8,9 @@ img {
   }
 
   div {background-color: red;
-    width: 600px;
-    height: 400px;
-    opacity: 0.5;
+    width: 500px;
+    height: 700px;
+    opacity: 1;
     }
 
     a:link {
@@ -20,7 +20,7 @@ img {
       }
       
       a:visited {
-        color: pink;
+        color: gray;
         background-color: transparent;
         text-decoration: none;
       }
